@@ -1,2 +1,2 @@
-document.write("hello");
-alert
+document.write("ajay");
+console.log("kumar")
